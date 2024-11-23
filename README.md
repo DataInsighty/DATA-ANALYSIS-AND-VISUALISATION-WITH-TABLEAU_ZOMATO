@@ -4,9 +4,13 @@ Welcome to the Data Analysis and Visualization with Tableau: Zomato project repo
 
 # Objectives
 The primary objectives of this project are:
+
 To analyze the aggregated data of Zomato restaurants across different countries, cities, and cuisines.
+
 To identify patterns and trends in customer ratings, votes, and cost structures.
+
 To provide data-driven recommendations for market segmentation, pricing strategies, and service improvements.
+
 To explore opportunities for machine learning applications like clustering for enhanced decision-making.
 
 # Key Features of the Analysis
